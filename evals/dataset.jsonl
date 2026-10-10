@@ -1,0 +1,5 @@
+{"question":"What does FowForge do?","expected_source":"README.md","expect_answer":true}
+{"question":"Where are document embeddings stored?","expected_source":"README.md","expect_answer":true}
+{"question":"Which component is used for rate limiting?","expected_source":"README.md","expect_answer":true}
+{"question":"How are answers delivered to the frontend?","expected_source":"README.md","expect_answer":true}
+{"question":"What is FowForge's annual revenue in 2025?","expected_source":"README.md","expect_answer":false}
